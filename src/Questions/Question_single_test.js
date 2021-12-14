@@ -67,7 +67,7 @@ const Question_Page = () => {
     async function getGenreSongList(genre) {
         var apikey = "374f493dfc6d56049896a9927f2ad53f"
         
-        var url = `http://ws.audioscrobbler.com/2.0/?method=tag.gettopalbums&tag=${genre}&api_key=${apikey}&format=json`
+        var url = `https://ws.audioscrobbler.com/2.0/?method=tag.gettopalbums&tag=${genre}&api_key=${apikey}&format=json`
         const items = await fetch(url)
         .then(res => res.json())
         .then(json => {

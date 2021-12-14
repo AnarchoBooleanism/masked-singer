@@ -39,7 +39,7 @@ const Results = (props) => {
         <nav class="results">
             <div className="resultsTitle">
                 <h1>You got <strong>{ location.state.pointsMade }/{location.state.totalPoints}.</strong> Congratulations!</h1>
-                <a href="/masked-singer#/question" className="restart">PLAY AGAIN</a>
+                <a href="/masked-singer/#/question" className="restart">PLAY AGAIN</a>
             </div>
         </nav>
     );
