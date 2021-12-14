@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/masked-singer/static/css/main.c292695f.chunk.css",
-    "main.js": "/masked-singer/static/js/main.938ecdf1.chunk.js",
-    "main.js.map": "/masked-singer/static/js/main.938ecdf1.chunk.js.map",
+    "main.js": "/masked-singer/static/js/main.fa694b3b.chunk.js",
+    "main.js.map": "/masked-singer/static/js/main.fa694b3b.chunk.js.map",
     "runtime-main.js": "/masked-singer/static/js/runtime-main.3a011a0b.js",
     "runtime-main.js.map": "/masked-singer/static/js/runtime-main.3a011a0b.js.map",
-    "static/js/2.8c2716e8.chunk.js": "/masked-singer/static/js/2.8c2716e8.chunk.js",
-    "static/js/2.8c2716e8.chunk.js.map": "/masked-singer/static/js/2.8c2716e8.chunk.js.map",
+    "static/js/2.050eaf37.chunk.js": "/masked-singer/static/js/2.050eaf37.chunk.js",
+    "static/js/2.050eaf37.chunk.js.map": "/masked-singer/static/js/2.050eaf37.chunk.js.map",
     "static/js/3.cadefaea.chunk.js": "/masked-singer/static/js/3.cadefaea.chunk.js",
     "static/js/3.cadefaea.chunk.js.map": "/masked-singer/static/js/3.cadefaea.chunk.js.map",
     "index.html": "/masked-singer/index.html",
     "static/css/main.c292695f.chunk.css.map": "/masked-singer/static/css/main.c292695f.chunk.css.map",
-    "static/js/2.8c2716e8.chunk.js.LICENSE.txt": "/masked-singer/static/js/2.8c2716e8.chunk.js.LICENSE.txt"
+    "static/js/2.050eaf37.chunk.js.LICENSE.txt": "/masked-singer/static/js/2.050eaf37.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3a011a0b.js",
-    "static/js/2.8c2716e8.chunk.js",
+    "static/js/2.050eaf37.chunk.js",
     "static/css/main.c292695f.chunk.css",
-    "static/js/main.938ecdf1.chunk.js"
+    "static/js/main.fa694b3b.chunk.js"
   ]
 }
